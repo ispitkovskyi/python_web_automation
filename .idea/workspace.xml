@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80d5ce07-85b9-4ea4-842c-06eda27afda9" name="Default Changelist" comment="fixed for clicking login button">
-      <change beforePath="$PROJECT_DIR$/.idea/automationsample.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/automationsample.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="80d5ce07-85b9-4ea4-842c-06eda27afda9" name="Default Changelist" comment="fixed tests running">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/base_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/base_page.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages_or/home_page_or.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages_or/home_page_or.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages_or/login_page_or.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages_or/login_page_or.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utility/driver_func_lib.py" beforeDir="false" afterPath="$PROJECT_DIR$/utility/driver_func_lib.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -291,10 +282,10 @@
     </configuration>
     <list>
       <item itemvalue="Python.all_test_suite" />
-      <item itemvalue="Python tests.Nosetests for login_test.TestFacebookLogin.test_login" />
       <item itemvalue="Python tests.Nosetests in /Users/igors/PyCharmProjects/python_web_automation/testcases/login_test.py" />
-      <item itemvalue="Python tests.Unittests for login_test.TestFacebookLogin" />
       <item itemvalue="Python tests.Unittests for test_login.TestFacebookLogin.test_login" />
+      <item itemvalue="Python tests.Nosetests for login_test.TestFacebookLogin.test_login" />
+      <item itemvalue="Python tests.Unittests for login_test.TestFacebookLogin" />
     </list>
     <recent_temporary>
       <list>
@@ -346,7 +337,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709135409407</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fixed tests running">
+      <created>1709135889871</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709135889871</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -442,7 +440,8 @@
     <MESSAGE value="unexpected changed" />
     <MESSAGE value="fixed for clicking login button" />
     <MESSAGE value="temp" />
-    <option name="LAST_COMMIT_MESSAGE" value="temp" />
+    <MESSAGE value="fixed tests running" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed tests running" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">

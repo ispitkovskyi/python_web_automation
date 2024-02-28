@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80d5ce07-85b9-4ea4-842c-06eda27afda9" name="Default Changelist" comment="">
+    <list default="true" id="80d5ce07-85b9-4ea4-842c-06eda27afda9" name="Default Changelist" comment="fixed for clicking login button">
       <change beforePath="$PROJECT_DIR$/.idea/automationsample.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/automationsample.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/all_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/all_test_suite.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/base_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/base_page.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages_or/home_page_or.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages_or/home_page_or.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages_or/login_page_or.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages_or/login_page_or.py" afterDir="false" />
@@ -39,12 +38,12 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -191,12 +190,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "last_opened_file_path": "/Users/igors/PyCharmProjects/python_web_automation",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;last_opened_file_path&quot;: &quot;/Users/igors/PyCharmProjects/python_web_automation&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
       <console-settings module-name="automationsample" is-module-sdk="true">
@@ -292,10 +291,10 @@
     </configuration>
     <list>
       <item itemvalue="Python.all_test_suite" />
-      <item itemvalue="Python tests.Nosetests in /Users/igors/PyCharmProjects/python_web_automation/testcases/login_test.py" />
-      <item itemvalue="Python tests.Unittests for test_login.TestFacebookLogin.test_login" />
       <item itemvalue="Python tests.Nosetests for login_test.TestFacebookLogin.test_login" />
+      <item itemvalue="Python tests.Nosetests in /Users/igors/PyCharmProjects/python_web_automation/testcases/login_test.py" />
       <item itemvalue="Python tests.Unittests for login_test.TestFacebookLogin" />
+      <item itemvalue="Python tests.Unittests for test_login.TestFacebookLogin.test_login" />
     </list>
     <recent_temporary>
       <list>
@@ -340,7 +339,14 @@
       <option name="project" value="LOCAL" />
       <updated>1542267499150</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="temp">
+      <created>1709135409407</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1709135409407</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -435,7 +441,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="unexpected changed" />
     <MESSAGE value="fixed for clicking login button" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed for clicking login button" />
+    <MESSAGE value="temp" />
+    <option name="LAST_COMMIT_MESSAGE" value="temp" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">

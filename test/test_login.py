@@ -1,10 +1,8 @@
-from selenium.webdriver.common.alert import Alert
 import logging
-import pages.home_page # do not use 'from' when importing pages
-from utility.drivermanager import DriverManager
+
+import pages.home_page  # do not use 'from' when importing pages
 from assets.constants import *
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
+from utility.drivermanager import DriverManager
 
 logging.basicConfig(format='%(asctime)s - %(levelname)s: %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p',
                     level=logging.INFO)

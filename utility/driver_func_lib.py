@@ -11,7 +11,7 @@ logging.basicConfig(format='%(asctime)s - %(levelname)s: %(message)s', datefmt='
 
 class DriverFuncLib:
 
-	def __init__(self,driver):
+	def __init__(self, driver):
 		self.driver = driver
 
 	def wait_for_element(self, locator, timeout=20):
